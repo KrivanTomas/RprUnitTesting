@@ -31,7 +31,7 @@ namespace UnitTest
             this.level = 1;
         }
 
-        public void ZmenaPozice(double x, double y)
+        public virtual void ZmenaPozice(double x, double y)
         {
             this.X = x;
             this.Y = y;

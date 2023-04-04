@@ -4638,23 +4638,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\krivant.05\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\RPR\\RprUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
+      "projectUniqueName": "C:\\GitHub\\RprUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
       "projectName": "UnitTestProject",
-      "projectPath": "G:\\RPR\\RprUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
-      "packagesPath": "C:\\Users\\krivant.05\\.nuget\\packages\\",
-      "outputPath": "G:\\RPR\\RprUnitTesting\\UnitTestProject\\obj\\",
+      "projectPath": "C:\\GitHub\\RprUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\RprUnitTesting\\UnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\krivant.05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -4667,9 +4670,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\RPR\\RprUnitTesting\\UnitTest\\UnitTest.csproj": {
-              "projectPath": "G:\\RPR\\RprUnitTesting\\UnitTest\\UnitTest.csproj"
+            "C:\\GitHub\\RprUnitTesting\\UnitTest\\UnitTest.csproj": {
+              "projectPath": "C:\\GitHub\\RprUnitTesting\\UnitTest\\UnitTest.csproj"
             }
           }
         }
@@ -4682,6 +4686,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -4711,7 +4716,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

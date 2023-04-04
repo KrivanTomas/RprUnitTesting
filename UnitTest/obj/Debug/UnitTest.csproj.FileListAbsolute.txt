@@ -7,3 +7,12 @@ G:\RPR\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.GenerateResource.cache
 G:\RPR\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
 G:\RPR\UnitTest\UnitTest\obj\Debug\UnitTest.exe
 G:\RPR\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
+C:\GitHub\RprUnitTesting\UnitTest\bin\Debug\UnitTest.exe.config
+C:\GitHub\RprUnitTesting\UnitTest\bin\Debug\UnitTest.exe
+C:\GitHub\RprUnitTesting\UnitTest\bin\Debug\UnitTest.pdb
+C:\GitHub\RprUnitTesting\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\GitHub\RprUnitTesting\UnitTest\obj\Debug\UnitTest.Properties.Resources.resources
+C:\GitHub\RprUnitTesting\UnitTest\obj\Debug\UnitTest.csproj.GenerateResource.cache
+C:\GitHub\RprUnitTesting\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\GitHub\RprUnitTesting\UnitTest\obj\Debug\UnitTest.exe
+C:\GitHub\RprUnitTesting\UnitTest\obj\Debug\UnitTest.pdb
